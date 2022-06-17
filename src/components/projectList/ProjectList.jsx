@@ -1,7 +1,7 @@
 import "./projectList.css"
 import Product from "../project/Project"
-import Alumnet from "../../img/Alumnet.jpeg"
-import MPMC from "../../img/mpmcproj.png"
+import Alumnet from "../../img/Projects/Alumnet.jpeg"
+import MPMC from "../../img/Projects/mpmcproj.png"
 
 const ProjectList = () => {
     return (

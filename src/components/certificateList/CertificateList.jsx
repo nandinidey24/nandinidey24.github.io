@@ -1,5 +1,6 @@
 import "./certificateList.css"
 import Certificate from "../certificate/Certificate"
+import {certificates} from "../../certificatedata"
 
 const CertificateList = () => {
     return (
@@ -14,7 +15,9 @@ const CertificateList = () => {
                 </p>
             </div>
             <div className="pl-list">
-                <Certificate>Certif1</Certificate>
+                {certificates.map((item) => (
+                    <Certificate key={item.id} img={item.img} name={item.name}/>
+                ))}
             </div>
         </div>
     )

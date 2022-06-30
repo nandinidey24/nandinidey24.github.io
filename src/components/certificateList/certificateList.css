@@ -1,4 +1,4 @@
-.pl{
+.cl{
     padding: 50px 100px;
     display: flex;
     flex-direction: column;
@@ -6,21 +6,37 @@
     text-align: center;
 }
 
-.pl-texts{
+.cl-texts{
     width: 65%;
 }
 
-.pl-title{
+.cl-title{
     font-size: 50px;
     font-weight: 600;
 }
 
-.pl-desc{
+.cl-desc{
     margin: 20px 0px;
 }
 
-.pl-list{
+.cl-list{
     width: 100%;
     display: flex;
     flex-wrap: wrap;
+}
+
+@media screen and (max-width: 480px){
+    .cl{
+        padding: 10px;
+    }
+    .cl-title{
+        margin-top: 20px;
+        font-size: 30px;
+    }
+    .cl-texts{
+        width: 100%;
+    }
+    .cl-desc{
+        display: none;
+    }
 }

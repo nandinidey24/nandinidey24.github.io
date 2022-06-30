@@ -137,3 +137,38 @@ textarea{
   top: 0;
   border-radius: 10px;
 }
+
+@media screen and (max-width: 480px){
+  .ct{
+    height: 100%;
+  }
+  .ct-wrapper{
+    flex-direction: column;
+    padding: 0px 50px;
+  }
+  .ct-title{
+    font-size: 30px;
+  }
+  .ct-info-item{
+    margin: 20px 0px;
+    width: 100%;
+  }
+  .ct-desc{
+    display: none;
+  }
+  form{
+    margin-top: 0px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  input{
+    width: 35%;
+    height: 40px;
+    margin: 10px;
+    margin-left: 0;
+  }
+  .ct-btn{
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+}

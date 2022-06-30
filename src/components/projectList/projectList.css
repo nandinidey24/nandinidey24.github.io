@@ -24,3 +24,20 @@
     display: flex;
     flex-wrap: wrap;
 }
+
+@media screen and (max-width: 480px){
+    .pl{
+        padding: 10px;
+        margin-top: 100px;
+    }
+    .pl-title{
+        margin-top: 20px;
+        font-size: 30px;
+    }
+    .pl-texts{
+        width: 100%;
+    }
+    .pl-desc{
+        display: none;
+    }
+}

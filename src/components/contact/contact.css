@@ -141,6 +141,7 @@ textarea{
 @media screen and (max-width: 480px){
   .ct{
     height: 100%;
+    margin-top: 50px;
   }
   .ct-wrapper{
     flex-direction: column;

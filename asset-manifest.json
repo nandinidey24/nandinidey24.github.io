@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c1beaae.chunk.css",
+    "main.js": "/static/js/main.5fc4b36e.chunk.js",
+    "main.js.map": "/static/js/main.5fc4b36e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9412c5a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9412c5a0.js.map",
+    "static/js/2.de91eb4a.chunk.js": "/static/js/2.de91eb4a.chunk.js",
+    "static/js/2.de91eb4a.chunk.js.map": "/static/js/2.de91eb4a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5c1beaae.chunk.css.map": "/static/css/main.5c1beaae.chunk.css.map",
+    "static/js/2.de91eb4a.chunk.js.LICENSE.txt": "/static/js/2.de91eb4a.chunk.js.LICENSE.txt",
+    "static/media/Alumnet.b4b19692.jpeg": "/static/media/Alumnet.b4b19692.jpeg",
+    "static/media/about.b1ea77c5.jpg": "/static/media/about.b1ea77c5.jpg",
+    "static/media/edutronics.1b27532f.png": "/static/media/edutronics.1b27532f.png",
+    "static/media/electriclocoshed.7d69f9f5.jpg": "/static/media/electriclocoshed.7d69f9f5.jpg",
+    "static/media/me.8b8e2d12.png": "/static/media/me.8b8e2d12.png",
+    "static/media/moon.7fc55a62.png": "/static/media/moon.7fc55a62.png",
+    "static/media/mpmcproj.5be42113.png": "/static/media/mpmcproj.5be42113.png",
+    "static/media/sun.48916e73.gif": "/static/media/sun.48916e73.gif",
+    "static/media/svufrontend.b8bf6924.jpg": "/static/media/svufrontend.b8bf6924.jpg",
+    "static/media/vlabeyediagram.55f37530.png": "/static/media/vlabeyediagram.55f37530.png",
+    "static/media/vlabhuffmancoding.91c3d29a.png": "/static/media/vlabhuffmancoding.91c3d29a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9412c5a0.js",
+    "static/js/2.de91eb4a.chunk.js",
+    "static/css/main.5c1beaae.chunk.css",
+    "static/js/main.5fc4b36e.chunk.js"
+  ]
+}

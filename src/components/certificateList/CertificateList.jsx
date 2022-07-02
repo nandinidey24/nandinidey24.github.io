@@ -6,12 +6,10 @@ const CertificateList = () => {
     return (
         <div className="cl">
             <div className="cl-texts">
-                <h1 className="cl-title">CertificateList title</h1>
+                <h1 className="cl-title">Certificates</h1>
                 <p className="cl-desc">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing 
-                    elit. Aenean eget dui felis. Vestibulum non nibh a ante 
-                    tristique accumsan. Interdum et malesuada fames ac ante 
-                    ipsum primis in faucibus.
+                    A group of certificates for completing online courses on 
+                    Coursera, Udemy, NPTEL and Python Institute
                 </p>
             </div>
             <div className="cl-list">

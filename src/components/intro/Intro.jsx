@@ -19,7 +19,7 @@ const Intro = () => {
                     <p className="i-desc">
                         I have recently graduated from K J Somaiya College of Engineering
                          and about to join Deloitte USI as an Analyst. I enjoy writing blogs 
-                         about topics I love to read!
+                         on topics I love to read about!
                     </p> 
                 </div>
             </div>

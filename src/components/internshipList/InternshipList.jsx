@@ -10,49 +10,42 @@ const InternshipList = () => {
     return (
         <div className="intl">
             <div className="intl-texts">
-                <h1 className="intl-title">This is InternshipList title</h1>
+                <h1 className="intl-title">Internships</h1>
                 <p className="intl-desc">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing 
-                    elit. Aenean eget dui felis. Vestibulum non nibh a ante 
-                    tristique accumsan. Interdum et malesuada fames ac ante 
-                    ipsum primis in faucibus.
+                    Internal as well as external internships completed by me 
+                    during the 4 years of Engineering
                 </p>
             </div>
             <div className="intl-list">    
                 <Internship 
                     img={VLABEyeDiag}
                     title="Eye Diagram Virtual Lab Development"
-                    desc="A Password lock system hardware circuit by
-                        Interfacing 8051 microprocessor with 16x2 LCD and 4x4 Matrix Keyboard"
+                    desc="Developed a virtual lab to explain the concepts of Eye diagrams in Digital Communication"
                     link="https://kjsce-vlabyediagram.herokuapp.com/"
                 />
                 <Internship 
                     img={VLABHuffman}
                     title="Huffman Coding Virtual Lab Development"
-                    desc="A Password lock system hardware circuit by
-                        Interfacing 8051 microprocessor with 16x2 LCD and 4x4 Matrix Keyboard"
+                    desc="Developed a virtual lab to explain the concepts of Huffman coding in Digital Communication"
                     link="https://vlabhuffman-kjsce.herokuapp.com/"
                 />
                 <Internship 
                     img={Edutronics}
-                    title="EduTronics"
-                    desc="A Password lock system hardware circuit by
-                        Interfacing 8051 microprocessor with 16x2 LCD and 4x4 Matrix Keyboard"
+                    title="EduTronics: Solutions to Electronics problems"
+                    desc="Part of the backend team to develop a website to provide Textbook solutions for Electronics subjects"
                     link="http://edutronics.herokuapp.com/"
                 />
                 <Internship 
                     img={SVUFrontend}
-                    title="Frontend Development for SVU"
-                    desc="A Password lock system hardware circuit by
-                        Interfacing 8051 microprocessor with 16x2 LCD and 4x4 Matrix Keyboard"
-                    link="https://github.com/nandinidey24/MiniProject"
+                    title="Frontend Development for Somaiya Vidyavihar University"
+                    desc="Part of the Frontend team for developing the SVU website"
+                    link="https://drive.google.com/file/d/1ovSukMjm8Zy5lLhcvc_yTjLH6SPAHLj-/view?usp=sharing"
                 />
                 <Internship 
                     img={ElectricLocoShed}
                     title="Trainee at Electric Loco Shed, Kalyan"
-                    desc="A Password lock system hardware circuit by
-                        Interfacing 8051 microprocessor with 16x2 LCD and 4x4 Matrix Keyboard"
-                    link="https://github.com/nandinidey24/MiniProject"
+                    desc="Interned as a trainee at the Electric Loco Shed, Kalyan of the Indian Railways"
+                    link="#"
                 />
             </div>
         </div>
